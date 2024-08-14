@@ -1,4 +1,4 @@
-# 2024 Samsung AI Challenge Black-box Optimization
+# [2024 Samsung AI Challenge Black-box Optimization](https://dacon.io/competitions/official/236323/overview/description)
 ## [배경] 
 반도체 공정은 설비와 공정 파라미터의 조정에 따라 재현성 있는 결과를 얻을 수 있도록 파라미터화되어 있습니다. 그러나 반도체 공정이 점점 더 미세화됨에 따라 기존의 지식에 기반한 개발은 점점 어려워지고 있습니다. 이러한 복잡한 공정에서 최적의 파라미터를 찾는 일은 높은 복잡성 때문에 매우 어려운 문제입니다. 더불어, 최적화된 파라미터의 타당성을 검증하는 과정에서도 큰 비용이 소요되어 문제가 더욱 해결하기 힘듭니다. 
 
