@@ -19,7 +19,7 @@ Model기반 Black-box 최적화 알고리즘 개발
 
 ### 최종 결과
 - 총 891명, 421팀
-- 9등(공동) 2.14%
+- 3등(공동) 0.71%
 - 18등 4.28%
 
 ![image](https://github.com/user-attachments/assets/63927d1b-cb3b-45ac-b867-f8b0999def27)
